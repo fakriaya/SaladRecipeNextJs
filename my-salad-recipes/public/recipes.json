@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Salade César",
+      "ingredients": ["Laitue romaine", "Poulet grillé", "Croutons", "Parmesan râpé", "Sauce César"],
+      "instructions": ["Coupez la laitue et le poulet en morceaux.", "Ajoutez les croutons et le parmesan.", "Mélangez avec la sauce César."],
+      "image": "/images/salade-cesar.jpg"
+    },
+    {
+      "name": "Salade Grecque",
+      "ingredients": ["Concombre", "Tomate", "Oignon rouge", "Feta", "Olives noires", "Huile d'olive"],
+      "instructions": ["Coupez les légumes en dés.", "Ajoutez la feta émiettée et les olives.", "Assaisonnez avec de l'huile d'olive et mélangez."],
+      "image": "/images/salade-grecque.jpg"
+    },
+    {
+      "name": "Salade de Quinoa",
+      "ingredients": ["Quinoa", "Pois chiches", "Poivron rouge", "Avocat", "Citron", "Coriandre"],
+      "instructions": ["Faites cuire le quinoa selon les instructions.", "Mélangez avec les pois chiches et les légumes.", "Assaisonnez avec du jus de citron et de la coriandre."],
+      "image": "/images/salade-quinoa.jpg"
+    },
+    {
+      "name": "Salade de Fruits",
+      "ingredients": ["Fraises", "Kiwi", "Mangue", "Jus d'orange", "Menthe"],
+      "instructions": ["Coupez les fruits en morceaux.", "Ajoutez le jus d'orange et la menthe.", "Mélangez délicatement."],
+      "image": "/images/salade-fruits.jpg"
+    }
+  ]
+  
